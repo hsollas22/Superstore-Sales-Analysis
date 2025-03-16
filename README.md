@@ -1,6 +1,6 @@
 # Superstore-Sales-Analysis
 
-Technologies Used: 
+# Technologies Used: 
 Excel - Data exploration
 Tableau - Data visualization 
 
