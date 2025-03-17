@@ -9,4 +9,7 @@ This repository contains an analysis of a Superstore Sales Dataset from Kaggle. 
 
 ## 📊 Tableau Visualization  
 You can explore the Tableau workbook and visualizations here:  
+https://github.com/hsollas22/Superstore-Sales-Analysis/blob/main/Superstore%20Sales%20Performance.twb
+
+
 
